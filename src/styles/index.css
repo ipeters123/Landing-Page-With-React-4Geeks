@@ -10,3 +10,7 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+
+.container1 {
+    border-radius: 5px;
+    }
